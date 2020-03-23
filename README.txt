@@ -22,3 +22,4 @@ After running create_tables() and insert_tables() once and data is properly inse
 into database, it's worthwhile commenting out these functions so the queries run 
 nearly instantly.
 
+TODO: Add usage screenshots
