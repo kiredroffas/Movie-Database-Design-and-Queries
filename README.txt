@@ -21,5 +21,3 @@ on my computer, however this will most likely be faster on a newer computer.
 After running create_tables() and insert_tables() once and data is properly inserted 
 into database, it's worthwhile commenting out these functions so the queries run 
 nearly instantly.
-
-TODO: Add usage screenshots
