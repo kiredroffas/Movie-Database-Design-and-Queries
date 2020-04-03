@@ -13,6 +13,8 @@
     * Top Five Movie Revenues, output includes the movie title and how much revenue it brought in
     * Movies With Both Science Fiction and Mystery Genre, output includes the movie title and genres
     * Movies More Popular Than Average, output includes the movie title and their popularity
+# Database 2NF Design
+![Alt text](/screenshots/sc8.png?raw=true "sc8")
 # Screenshots
 ## MySQL Workbench Running With Database Schema 'mdb'
 ![Alt text](/screenshots/sc1.jpg?raw=true "sc1")
